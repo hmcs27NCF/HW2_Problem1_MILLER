@@ -1,0 +1,28 @@
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.2\lib\idea_rt.jar=52906" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\JavaProjects\HW2_Problem1_MILLER\out\production\HW2_Problem1_MILLER Main
+
+Machine Learning Prediction
+
+RUNNING PREDICTION
+Getting Machine Learning Model + Statistical Model -> Pre-processing data...
+Fetching data...
+Data retrieved
+Running prediction model...
+Prediction model done
+Saving results...
+Results saved
+PREDICTION SUCCESS
+
+Statistical Prediction
+
+RUNNING PREDICTION
+Getting Statistical Model -> Pre-processing data...
+Fetching data...
+Data retrieved
+Running prediction model...
+Prediction model done
+Saving results...
+Results saved
+PREDICTION SUCCESS
+
+
+Process finished with exit code 0
